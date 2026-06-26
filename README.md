@@ -9,6 +9,7 @@ Plataforma web de jogos clássicos e passatempos online, desenvolvida para propo
 - **MySQL** — banco de dados relacional
 
 ## Estrutura do projeto
+```bash
 database/
 public/
 src/
@@ -19,6 +20,7 @@ src/
 └── models/
 app.js
 server.js
+```
 
 ## Pré-requisitos
 
