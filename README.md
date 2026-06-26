@@ -9,13 +9,16 @@ Plataforma web de jogos clássicos e passatempos online, desenvolvida para propo
 - **MySQL** — banco de dados relacional
 
 ## Estrutura do projeto
+database/
+public/
 src/
 ├── server.js
 ├── routes/
 ├── controllers/
 ├── services/
-├── models/
-└── public/
+└── models/
+app.js
+server.js
 
 ## Pré-requisitos
 
